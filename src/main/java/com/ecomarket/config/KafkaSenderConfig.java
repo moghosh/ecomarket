@@ -1,4 +1,4 @@
-package com.ecomarket.web.config;
+package com.ecomarket.config;
 
 import com.ecomarket.backend.service.kafka.Sender;
 import org.apache.kafka.clients.producer.ProducerConfig;

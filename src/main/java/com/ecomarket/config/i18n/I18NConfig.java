@@ -1,4 +1,4 @@
-package com.ecomarket.web.i18n;
+package com.ecomarket.config.i18n;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
